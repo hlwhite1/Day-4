@@ -1,4 +1,4 @@
-## Daily Small Projects - Day 3 of 50 (Search Widget) 
+## Daily Small Projects - Day 4 of 50 (Search Widget) 
 
 **USED:** HTML, CSS, Javascript
 
